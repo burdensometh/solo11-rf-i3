@@ -262,7 +262,7 @@ div.sidebar {
   float: right ;
   clear: right }
 
-div.sidebar p.rubric {
+div.sidebar p.note-heading {
   font-size: medium }
 
 div.system-messages {
@@ -333,7 +333,7 @@ p.credits {
 p.label {
   white-space: nowrap }
 
-p.rubric {
+p.note-heading {
   font-weight: bold ;
   font-size: larger ;
   color: maroon ;
